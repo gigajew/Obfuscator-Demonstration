@@ -1,4 +1,4 @@
-# Obfuscator Demonstration
+# :octocat:Obfuscator Demonstration
 - Demonstrates class/method/field/property renaming
 - Demonstrates mvid clearing, attritube removal
 
