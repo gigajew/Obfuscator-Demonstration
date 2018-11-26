@@ -53,7 +53,7 @@ namespace ObfuscatorBase.Utils
             return result;
         }
 
-        private static int GetRandomInt(int minLength, int maxLength)
+        public static int GetRandomInt(int minLength, int maxLength)
         {
             return m_Random.Next(minLength, maxLength);
         }
