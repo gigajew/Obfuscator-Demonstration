@@ -6,3 +6,7 @@
 
 ## How to clone
 git clone --recursive https://github.com/gigajew/Obfuscator-Demonstration.git Obfuscator 
+
+## Donate
+
+Bitcoin: 12FP1JisjYCsgfteTLMQQMLnVBs65wZD8G
